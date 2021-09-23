@@ -1,8 +1,8 @@
 <template>
   <div id="container">
     <div class="row">
-      <div class="logo space" @click="init">UNSPLASH API DEMO</div>
-      <div class="space" />
+      <div class="logo" @click="init">UNSPLASH API DEMO</div>
+
       <div class="search">
         <input
           placeholder="search"
